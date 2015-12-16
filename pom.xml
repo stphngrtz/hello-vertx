@@ -12,6 +12,7 @@
     <modules>
         <module>embedding</module>
         <module>echo</module>
+        <module>simple-http</module>
     </modules>
 
     <dependencyManagement>
