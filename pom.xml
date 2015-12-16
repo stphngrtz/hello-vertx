@@ -15,6 +15,7 @@
         <module>simple-http</module>
         <module>simple-http-proxy</module>
         <module>http-server-sharing</module>
+        <module>event-bus</module>
     </modules>
 
     <dependencyManagement>
