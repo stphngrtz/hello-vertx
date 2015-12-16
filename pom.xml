@@ -13,6 +13,7 @@
         <module>embedding</module>
         <module>echo</module>
         <module>simple-http</module>
+        <module>simple-http-proxy</module>
     </modules>
 
     <dependencyManagement>
