@@ -11,6 +11,7 @@
 
     <modules>
         <module>embedding</module>
+        <module>echo</module>
     </modules>
 
     <dependencyManagement>
