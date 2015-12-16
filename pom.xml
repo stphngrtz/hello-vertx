@@ -11,6 +11,10 @@
 
     <modules>
         <module>embedding</module>
+        <module>echo</module>
+        <module>simple-http</module>
+        <module>simple-http-proxy</module>
+        <module>http-server-sharing</module>
     </modules>
 
     <dependencyManagement>
