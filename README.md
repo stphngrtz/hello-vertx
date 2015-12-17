@@ -2,10 +2,10 @@
 https://github.com/vert-x3/vertx-examples
 
 Done:
-* ...
-
-In progress:
 * https://github.com/vert-x3/vertx-examples/blob/master/core-examples/README.adoc
 
+In progress:
+* https://github.com/vert-x3/vertx-examples/blob/master/web-examples/README.adoc
+
 Next:
-* https://github.com/vert-x3/vertx-examples/tree/master/core-examples#verticle-examples
+* https://github.com/vert-x3/vertx-examples/blob/master/web-examples/README.adoc#simple-rest-micro-service

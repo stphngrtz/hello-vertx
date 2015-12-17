@@ -16,6 +16,9 @@
         <module>simple-http-proxy</module>
         <module>http-server-sharing</module>
         <module>event-bus</module>
+        <module>deployment</module>
+        <module>simple-worker</module>
+        <module>execute-blocking</module>
     </modules>
 
     <dependencyManagement>
