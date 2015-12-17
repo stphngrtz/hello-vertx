@@ -18,6 +18,7 @@
         <module>event-bus</module>
         <module>deployment</module>
         <module>simple-worker</module>
+        <module>execute-blocking</module>
     </modules>
 
     <dependencyManagement>
