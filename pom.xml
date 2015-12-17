@@ -19,6 +19,7 @@
         <module>deployment</module>
         <module>simple-worker</module>
         <module>execute-blocking</module>
+        <module>simple-rest</module>
     </modules>
 
     <dependencyManagement>
@@ -26,6 +27,11 @@
             <dependency>
                 <groupId>io.vertx</groupId>
                 <artifactId>vertx-core</artifactId>
+                <version>3.2.0</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vertx</groupId>
+                <artifactId>vertx-web</artifactId>
                 <version>3.2.0</version>
             </dependency>
         </dependencies>
