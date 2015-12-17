@@ -8,4 +8,4 @@ In progress:
 * https://github.com/vert-x3/vertx-examples/blob/master/web-examples/README.adoc
 
 Next:
-* https://github.com/vert-x3/vertx-examples/blob/master/web-examples/README.adoc#simple-rest-micro-service
+* https://github.com/vert-x3/vertx-examples/blob/master/web-examples/README.adoc#auth-example
