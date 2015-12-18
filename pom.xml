@@ -21,6 +21,7 @@
         <module>execute-blocking</module>
         <module>simple-rest</module>
         <module>web-auth</module>
+        <module>jdbc</module>
     </modules>
 
     <dependencyManagement>
@@ -46,9 +47,19 @@
                 <version>3.2.0</version>
             </dependency>
             <dependency>
+                <groupId>io.vertx</groupId>
+                <artifactId>vertx-jdbc-client</artifactId>
+                <version>3.2.0</version>
+            </dependency>
+            <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-api</artifactId>
                 <version>1.7.13</version>
+            </dependency>
+            <dependency>
+                <groupId>org.hsqldb</groupId>
+                <artifactId>hsqldb</artifactId>
+                <version>2.3.2</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
