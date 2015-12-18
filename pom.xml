@@ -20,6 +20,7 @@
         <module>simple-worker</module>
         <module>execute-blocking</module>
         <module>simple-rest</module>
+        <module>web-auth</module>
     </modules>
 
     <dependencyManagement>
@@ -33,6 +34,21 @@
                 <groupId>io.vertx</groupId>
                 <artifactId>vertx-web</artifactId>
                 <version>3.2.0</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vertx</groupId>
+                <artifactId>vertx-auth</artifactId>
+                <version>3.2.0</version>
+            </dependency>
+            <dependency>
+                <groupId>io.vertx</groupId>
+                <artifactId>vertx-auth-shiro</artifactId>
+                <version>3.2.0</version>
+            </dependency>
+            <dependency>
+                <groupId>org.slf4j</groupId>
+                <artifactId>slf4j-api</artifactId>
+                <version>1.7.13</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
